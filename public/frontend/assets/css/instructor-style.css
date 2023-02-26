@@ -1,0 +1,43 @@
+.form-section {
+    display: none;
+}
+
+.form-section.current {
+    display: inline;
+}
+.parsley-errors-list {
+    margin: 2px 0 3px;
+    padding: 0;
+    list-style-type: none;
+    color: red;
+}
+
+.form-navigation .nextt{
+    background-color: rgb(77, 77, 240);
+    color: #eee;
+}
+
+.form-navigation .previous{
+    background-color: rgb(77, 77, 240);
+    color: #eee;
+}
+
+.form-navigation .btv-default{
+    background-color: #39004d;
+    color: #eee;
+}
+
+.form-navigation .btv-default:hover{
+    background-color: #600080;
+    color: #eee;
+}
+
+.form-navigation .nextt:hover{
+    background-color: rgb(51, 51, 189);
+    color: #fff;
+}
+
+.form-navigation .previous:hover{
+    background-color: rgb(51, 51, 189);
+    color: #fff;
+}
